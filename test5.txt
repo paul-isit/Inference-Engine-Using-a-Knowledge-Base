@@ -1,0 +1,4 @@
+TELL
+p & q => r; s & t => u; v & w => x; r & u => y; x & y => z; a1 => p; b1 => q; c1 => s; d1 => t; e1 => v; f1 => w; a1; b1; c1; d1; e1; f1;
+ASK
+f1
